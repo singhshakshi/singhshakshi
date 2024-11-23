@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @singhshakshi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin id- www.linkedin.com/in/shakshi-singh-679257264
 - email id- ps2958662@gmail.com
